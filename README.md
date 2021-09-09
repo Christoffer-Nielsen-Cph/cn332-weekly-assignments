@@ -1,4 +1,4 @@
-# cph-1st-w37
+# cn332-weekly-assignments
 
 Christoffer Perch Nielsen
 
